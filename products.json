@@ -1,0 +1,50 @@
+[
+  {
+    "id": "glock18",
+    "name": "Glock18",
+    "type": "Glock18",
+    "price": 150,
+    "image": "images/glock18.jpg",
+    "description": "ปืนของเล่นทรงพกพา Glock18 ดีไซน์เหมือนจริง กะทัดรัด คล่องตัว เหมาะกับเกมยิงระยะประชิด พร้อมแม็กกาซีนถอดได้"
+  },
+  {
+    "id": "typhoon-ataman-black-magpul-12-5",
+    "name": "Typhoon Ataman Black Magpul 12.5",
+    "type": "Typhoon Ataman Black Magpul 12.5",
+    "price": 250,
+    "image": "images/typhoon-ataman-black-magpul-12-5.jpg",
+    "description": "ปืนลูกซองของเล่น Typhoon Ataman Black Magpul 12.5 ทรงเท่ พานท้ายแข็งแรง เหมาะกับสายบุกตะลุยระยะกลาง-ใกล้"
+  },
+  {
+    "id": "fn-scar-l",
+    "name": "FN SCAR-L",
+    "type": "FN SCAR-L",
+    "price": 400,
+    "image": "images/fn-scar-l.jpg",
+    "description": "ปืนไรเฟิลจู่โจมของเล่น FN SCAR-L ดีไซน์แน่น ทนทาน เหมาะเป็นอาวุธหลักสำหรับสมรภูมิทุกสนาม"
+  },
+  {
+    "id": "smith-wesson",
+    "name": "Smith & Wesson",
+    "type": "Smith & Wesson",
+    "price": 200,
+    "image": "images/smith-wesson.jpg",
+    "description": "ปืนลูกโม่ของเล่น Smith & Wesson ทรงคลาสสิก น้ำหนักมือดี เหมาะเป็นอาวุธรองคู่ใจ"
+  },
+  {
+    "id": "mp5",
+    "name": "MP5",
+    "type": "MP5",
+    "price": 350,
+    "image": "images/mp5.jpg",
+    "description": "ปืนกลมือของเล่น MP5 ยิงรัว แม็กกาซีนจุเยอะ เหมาะกับเกมบุกเร็วทั้ง indoor และ outdoor"
+  },
+  {
+    "id": "water-bullet",
+    "name": "Water bullet",
+    "type": "Water bullet",
+    "price": 50,
+    "image": "images/water-bullet.jpg",
+    "description": "ลูกบอลน้ำสำหรับปืนของเล่น บรรจุ 100 ลูกต่อชุด ปลอดภัย ไม่เลอะเทอะ ใช้ได้กับบลาสเตอร์ทุกรุ่นในไลน์ Ham Blaster"
+  }
+]

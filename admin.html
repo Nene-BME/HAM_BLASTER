@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>รายการคำสั่งซื้อ | Ham Blaster Admin</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="container" style="display:flex; align-items:center; justify-content:space-between; width:100%;">
+      <a href="index.html" class="navbar__logo">Ham<span>Blaster</span></a>
+      <nav class="navbar__links">
+        <a href="index.html">หน้าแรก</a>
+        <a href="product.html">สินค้าทั้งหมด</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Order table -->
+  <section class="section">
+    <div class="container">
+      <div class="text-center hb-max-w page-heading">
+        <h1>รายการคำสั่งซื้อ</h1>
+        <p>ข้อมูลดึงจาก Google Sheet โดยตรง เรียงจากรายการล่าสุดขึ้นก่อน</p>
+      </div>
+
+      <div class="table-wrap">
+        <table id="orderTable" class="hb-table">
+          <thead>
+            <tr>
+              <th>วัน เวลา</th>
+              <th>ชื่อลูกค้า</th>
+              <th>เบอร์โทร / Line</th>
+              <th>รายการสินค้า</th>
+              <th>จำนวนเงินรวม</th>
+              <th>หมายเหตุ</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="6" class="text-center">กำลังโหลดข้อมูล...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container text-center">
+      <p style="color: rgba(255,255,255,0.7); margin-bottom: 0;">
+        © 2026 Ham Blaster — หน้านี้สำหรับทีมงานภายในเท่านั้น
+      </p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
